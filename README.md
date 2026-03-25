@@ -1,9 +1,13 @@
 # Reinforcement Learning Algorithms Implementation 
 
-A collection of Reinforcement Learning (RL) algorithms implemented from scratch and with popular libraries. 
+This repository is where I practiced implementing a collection of Reinforcement Learning (RL) algorithms from scratch with common libraries. 
 
 ## Current algorithms
 - [Proximal Policy Approximation (PPO)](https://arxiv.org/pdf/1707.06347): PyTorch, JAX
+- [Deep Q-Learning (DQN)](https://arxiv.org/pdf/1312.5602): PyTorch
 
 ## TO-DO
-- [Soft Actor Critic (SAC)](https://arxiv.org/pdf/1812.05905)
+- Implement [Soft Actor Critic (SAC)](https://arxiv.org/pdf/1812.05905) on PyTorch
+- Implement JAX version for DQN and SAC
+- Implement MuJoCo tasks
+
